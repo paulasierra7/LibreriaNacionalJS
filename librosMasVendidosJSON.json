@@ -1,0 +1,57 @@
+[{
+        "id": 9781617295321,
+        "img": "./img/HP.png",
+        "title": "Harry Potter y la piedra filosofal",
+        "resumen": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos.",
+        "precio": 49
+    },
+    {
+        "id": 9781617295902,
+        "img": "./img/EnBusca.png",
+        "title": "El hombre en busca de sentido",
+        "resumen": "El hombre en busca de sentido es un libro escrito por el psiquiatra austriaco Viktor Emil Frankl, publicado en Alemania en 1946.",
+        "precio": 18
+    },
+    {
+        "id": 9781617295333,
+        "img": "./img/HP4.png",
+        "title": "Harry Potter y el prisionero de Askaban",
+        "resumen": "Harry Potter y el prisionero de Azkaban es el tercero de los siete libros escritos de la serie Harry Potter, por J. K. Rowling.",
+        "precio": 26
+    },
+    {
+        "id": 9781617295934,
+        "img": "./img/HP3.png",
+        "title": "2da Edición: Harry Potter y el prisionero de Askaban",
+        "resumen": "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter.",
+        "precio": 12
+    },
+    {
+        "id": 9781617295915,
+        "img": "./img/Elsutil.png",
+        "title": "El sutil arte de que todo te importe un carajo",
+        "resumen": "Se han vendido más de un millón de ejemplares.Durante los últimos años, Mark Manson -en su popular blog- se ha afanado en corregir nuestras delirantes expectativas sobre nosotros mismos y el mundo. Ahora nos ofrece su toda su intrépida sabiduría en este libro pionero.",
+        "precio": 20
+    },
+    {
+        "id": 9781617295963,
+        "img": "./img/4Acuerdos.png",
+        "title": "Los Cuatro Acuerdos",
+        "resumen": "Un libro de sabiduría tolteca (Crecimiento personal). por Miguel Ruiz Tapa blanda ",
+        "precio": 30
+    },
+    {
+        "id": 6978161729591,
+        "img": "./img/HP5.png",
+        "title": "Harry Potter y la Cámara de los Secretos",
+        "resumen": "Terminado el verano, Harry no ve la hora de abandonar la casa de sus odiosos tíos. Inesperadamente se presenta en su dormitorio Dobby, un elfo doméstico, que le anuncia que correrá un gran peligro si vuelve a Hogwarts.",
+        "precio": 35
+    },
+    {
+        "id": 6978161729591,
+        "img": "./img/Agatha.png",
+        "title": "Muerte en el Nilo",
+        "resumen": "El detective Hercule Poirot investiga el asesinato de una rica y joven heredera a bordo del mismo crucero por el río Nilo en el que pasa las vacaciones Poirot.",
+        "precio": 20
+    }
+]

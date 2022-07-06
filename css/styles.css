@@ -1,0 +1,142 @@
+body{
+  background-color: #00010a;
+}
+header, .alert{
+  z-index: 100;
+}
+
+.description{
+  height: 25px;
+  overflow: hidden;
+  transition: height .3s ease-in .3s;
+}
+.description:hover{
+  height: 80px;
+}
+
+/* #paginaInicio {  */
+  /* color: whitesmoke;
+  text-align: center;
+  display: inline-block;
+  vertical-align: baseline;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  font-size: 2.1rem;
+  font-weight: 400;
+
+  /* color: whitesmoke;
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 30px; */ */
+/* } */
+
+.carrito{
+  min-height: 80vh;
+  max-width: 1000px;
+  margin: 0 auto;
+  width: 100%;
+}
+.table__productos{
+  display: flex;
+}
+.table__productos > img{
+  width: 9rem;
+  object-fit: contain;
+  border-radius: 6px;
+  margin-right: 20px;
+}
+.table__cantidad > input{
+  width: 40px;
+  border: none;
+  outline: 0;
+  font-size: 16px;
+  font-weight: 700;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+.hide, .remove{
+  display: none;
+}
+
+
+#paginaInicio {
+  border: 80px solid #00010a;
+  border-collapse: collapse;
+}
+
+.tm-container {
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* HEADER */
+.tm-text-white { color: whitesmoke }
+.tm-page-header-container { 
+  text-align: left; 
+}
+.tm-page-header {
+  text-align: left;
+  display: inline-block;
+  vertical-align: baseline;
+  /* margin-top: 20px;
+  margin-bottom: 35px; */
+  /* font-size: 2.1rem; */
+  font-weight: 400;
+}
+.tm-section-header {
+  color: whitesmoke;
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+.relativeOrigen {
+  position: relative;
+}
+
+.td {
+  max-height: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#imagenesInicio {
+  max-height: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* envio email */
+.field {
+  margin-bottom: 10px;
+}
+
+.field label {
+  display: block;
+  font-size: 12px;
+  color: #777;
+}
+
+.field input {
+  display: block;
+  min-width: 250px;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+input[type="submit"] {
+  display: block;
+  padding: 6px 30px;
+  font-size: 14px;
+  background-color: #4460AA;
+  color: #fff;
+  border: none
+}
